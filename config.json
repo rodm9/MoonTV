@@ -1,10 +1,10 @@
 {
   "cache_time": 7200,
-  "api_site": {  
+  "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "detail": "http://caiji.dyttzyapi.com"  
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
@@ -80,10 +80,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",    
       "name": "iKun资源"
-    }，
+    },
     {
-"provide": {                                  
-      "api": "https://91md.me/api.php/https://91md.me/api.php/provide/vod//vod/",                                                
+"provide": {          
+      "api": "https://91md.me/api.php/https://91md.me/api.php/provide/vod//vod/",                                          
       "name": "91麻豆"
     },
   }
