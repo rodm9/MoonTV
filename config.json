@@ -69,8 +69,8 @@
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",  
       "name": "樱花资源"
     },
-    "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",  
+    "wujin": {  
+      "api": "https://api.wujinapi.me/api.php/provide/vod",            
       "name": "无尽资源"
     },
     "wwzy": {
@@ -82,12 +82,9 @@
       "name": "iKun资源"
     }，
     {
-“cache_time”：7200、
-“api_site”： {
-“dyttzy”： {
-“api”： “https://91md.me/api.php/provide/vod/”，                          
-      "name": "91麻豆",
-“detail”： “https://91md.me/”              
-  }
+"provide": {                                  
+      "api": "https://91md.me/api.php/https://91md.me/api.php/provide/vod//vod/",                                                
+      "name": "91麻豆"
+    },
   }
 }
