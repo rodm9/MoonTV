@@ -16,7 +16,7 @@
       "detail": "https://heimuer.tv"
     },
     "bfzy": {  
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",    
       "name": "暴风资源"
     },
     "tyyszy": {
@@ -34,7 +34,7 @@
     },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
-      "name": "iqiyi资源"
+      "name": "iqiyi资源"  
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
@@ -80,10 +80,6 @@
     "ikun": {    
       "api": "https://ikunzyapi.com/api.php/provide/vod",            
       "name": "iKun资源"    
-    },
-    "madou91": {                                    
-      "api": "https://91md.me/api.php/provide/vod//vod/",                                                
-      "name": "91madou"      
     }
   }
 }
