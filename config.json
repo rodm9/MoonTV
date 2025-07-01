@@ -1,8 +1,16 @@
 {
-  "cache_time": 7200,
+  "cache_time": 7200,        
   "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "dyttzy": {  
+      "api": "https://91md.me/api.php/provide/vod/",                
+      "name": "91md",
+      "detail": "https://91md.me/"            
+    },
+{
+  "cache_time": 7200,          
+  "api_site": {
+    "dyttzy": {  
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",    
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
@@ -15,8 +23,8 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
-    "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+    "bfzy": {  
+      "api": "https://bfzyapi.com/api.php/provide/vod",  
       "name": "暴风资源"
     },
     "tyyszy": {
@@ -80,10 +88,7 @@
     "ikun": {            
       "api": "https://ikunzyapi.com/api.php/provide/vod",      
       "name": "iKun资源"      
-     "91madou": {            
-      "api": "https://91md.me/api.php/provide/vod/",      
-      "name": "91madou",
-      "detail": "https://91md.me"
+       
     }
   }
 }
